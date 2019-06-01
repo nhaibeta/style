@@ -638,7 +638,7 @@ iframe{border:none;overflow:hidden}
 .comments .continue a:hover{background:#d70d25}
 @media screen and (max-width:480px){#comments .avatar-image-container{display:none!important}#comments .comment-block{margin-left:0!important}.comments .comment-block,.comments .comments-content .comment-replies{marign-left:0!important}.comments .comments-content span.datetime.secondary-text{width:100%!important;float:left!important;text-align:left!important}}
 #top-bar{box-shadow:0 1px 15px -5px rgba(0,0,0,.1)}
-#top-bar,#outer-wrapper,.header-menu,#main-menu ul>li>ul,body,#nav-search .search-form,#nav-search .search-input{background:#fff}
+#top-bar,#outer-wrapper,.header-menu,#main-menu ul>li>ul,#nav-search .search-form,#nav-search .search-input{background:#fff}
 .top-bar-nav ul li>a,.top-bar-social ul>li>a,#main-menu ul>li>a,#main-menu ul>li>ul>li a,#nav-search .search-input{color:#333}
 .header-menu{border-top:3px solid #fff}
 .hide-search,.show-search{border-radius:100%;box-shadow:0 0 11px rgba(0,0,0,0.06);background:#fff;color:#333}
@@ -646,4 +646,4 @@ iframe{border:none;overflow:hidden}
 .index-post .post-info,.item-post,.sidebar .widget,.blog-post-comments{box-shadow:0 2px 25px rgba(0,0,0,.06),0 2px 5px rgba(0,0,0,.1);border-radius:8px}
 #main-menu #main-menu-nav>li.li-home,#main-menu #main-menu-nav>li:hover{background:#f24a4a}
 .post-labels a,.post-labels span{background:#ddd;border-radius:5px;padding:7px}
-
+body{background:#eaeaea}
