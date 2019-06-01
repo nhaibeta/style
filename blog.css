@@ -322,7 +322,7 @@ ul.related-posts{position:relative;overflow:hidden;margin:0 -10px;padding:0}
 .related-posts .post-title a{color:#111;transition:color .17s}
 .related-posts .post-title a:hover{color:#39b5e4}
 #blog-pager{overflow:hidden;clear:both;margin:0 0 30px}
-.blog-pager a,.blog-pager span{float:left;display:block;min-width:30px;height:30px;background-color:#111;color:#fff;font-size:13px;font-weight:700;line-height:30px;text-align:center;box-sizing:border-box;margin:0 8px 0 0;transition:all .17s ease;box-shadow:0 3px 5px 0 rgba(0,1,1,.1);border-radius:5px}
+.blog-pager a,.blog-pager span{float:left;display:block;min-width:30px;height:30px;background-color:#fff;color:#000;font-size:13px;font-weight:700;line-height:30px;text-align:center;box-sizing:border-box;margin:0 8px 0 0;transition:all .17s ease;box-shadow:0 3px 5px 0 rgba(0,1,1,.1);border-radius:5px}
 #comments .comment-thread .thread-count,.archive #blog-pager,.comments .continue{display:none}
 .blog-pager .blog-pager-newer-link,.blog-pager .blog-pager-older-link{padding:0 15px}
 .blog-pager .blog-pager-newer-link{float:left}
@@ -358,7 +358,7 @@ ul.related-posts{position:relative;overflow:hidden;margin:0 -10px;padding:0}
 #comments .comment .comment-header .datetime a{color:#333;font-weight:700}
 #comments .comment .comment-content{margin-top:7px;margin-bottom:7px;line-height:1.6;word-break:break-word}
 .comments .comments-content .loadmore.loaded{display:none}
-.post-body h1,.post-body h2,.post-body h3,.post-body h4,.post-body h5,.post-body h6{margin:0 0 15px}
+.post-h1,.post-body h2,.post-body h3,.post-body h4,.post-body h5,.post-body h6{margin:0 0 15px}
 .post-body h1,.post-body h2{font-size:24px}
 .post-body h3{font-size:21px}
 .post-body h4{font-size:18px}
