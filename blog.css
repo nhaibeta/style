@@ -497,7 +497,7 @@ blockquote:after{content:'\f10e';margin:0 0 0 10px}
 #sub-footer-wrapper .copyright-area a{color:#fff;transition:color .17s}
 #sub-footer-wrapper .copyright-area a:hover{color:#39b5e4}
 .hidden-widgets{display:none;visibility:hidden}
-.back-top{z-index:1010;width:34px;height:32px;position:fixed;bottom:25px;right:25px;cursor:pointer;overflow:hidden;font-size:20px;color:#fff;text-align:center;line-height:30px}
+.back-top{z-index:1010;width:34px;height:32px;position:fixed;bottom:25px;right:25px;cursor:pointer;overflow:hidden;font-size:20px;color:#fff;text-align:center;line-height:30px;box-shadow:0 2px 25px rgba(0,0,0,.06), 0 2px 5px rgba(0,0,0,.1);border-radius:20%}
 .back-top:before{content:'';position:absolute;top:0;left:0;right:0;bottom:0;background-color:#f24a4a;opacity:.5;transition:opacity .17s ease}
 .back-top:after{content:'\f106';position:relative;font-family:FontAwesome;font-weight:400;opacity:.8;transition:opacity .17s ease}
 .back-top:hover:after,.back-top:hover:before,.nav-active .back-top:after,.nav-active .back-top:before{opacity:1}
@@ -646,3 +646,4 @@ iframe{border:none;overflow:hidden}
 .index-post .post-info,.item-post,.sidebar .widget,.blog-post-comments{box-shadow:0 2px 25px rgba(0,0,0,.06),0 2px 5px rgba(0,0,0,.1);border-radius:8px}
 #main-menu #main-menu-nav>li.li-home,#main-menu #main-menu-nav>li:hover{background:#f24a4a}
 .post-labels a,.post-labels span{background:#ddd;border-radius:5px;padding:7px}
+
