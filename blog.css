@@ -2,7 +2,7 @@ dl,ul,ul li{list-style:none}
 .center,img{position:relative}
 .top-bar-social ul>li>a,a,a:visited,abbr{text-decoration:none}
 .header-logo,.header-logo img{max-height:60px;margin:0}
-#main-menu ul>li>a,.social a:before,body,dl,ul{font-weight:400}
+#main-menu ul>li>a,.social a:before,,dl,ul{font-weight:400}
 .index-post .post-info>h2,.post-snippet{-webkit-box-orient:vertical;text-overflow:ellipsis;-webkit-line-clamp:2}
 a,abbr,acronym,address,applet,b,big,blockquote,body,caption,center,cite,code,dd,del,dfn,div,dl,dt,em,fieldset,font,form,h1,h2,h3,h4,h5,h6,html,i,iframe,img,ins,kbd,label,legend,li,object,p,pre,q,s,samp,small,span,strike,strong,sub,sup,table,tbody,td,tfoot,th,thead,tr,tt,u,ul,var{padding:0;border:0;outline:0;vertical-align:baseline;background:0 0;text-decoration:none}
 button,form,input,textarea{-webkit-appearance:none;-moz-appearance:none;appearance:none;border-radius:0}
@@ -646,4 +646,4 @@ iframe{border:none;overflow:hidden}
 .index-post .post-info,.item-post,.sidebar .widget,.blog-post-comments{box-shadow:0 2px 25px rgba(0,0,0,.06),0 2px 5px rgba(0,0,0,.1);border-radius:8px}
 #main-menu #main-menu-nav>li.li-home,#main-menu #main-menu-nav>li:hover{background:#f24a4a}
 .post-labels a,.post-labels span{background:#ddd;border-radius:5px;padding:7px}
-
+body{background-color:#eaeaea}
