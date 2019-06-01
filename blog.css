@@ -146,8 +146,8 @@ body{background:url() top left #f8f8f8;font-family:'Open Sans',sans-serif;font-s
 #main-menu #main-menu-nav>li:first-child>a{padding-left:0}
 #main-menu #main-menu-nav>li:first-child:hover{background:0 0}
 #main-menu ul>li:hover>a,#main-menu ul>li>ul>li:hover>a{color:#fff}
-#main-menu ul>li>ul{position:absolute;float:left;left:0;top:46px;width:180px;background-color:#111;z-index:99999;margin-top:0;padding:0;border-top:2px solid #f24a4a;visibility:hidden;opacity:0;-webkit-box-shadow:-6px 6px 77px -17px #c7c7c7;box-shadow:-6px 6px 77px -17px #c7c7c7}
-#main-menu ul>li>ul>li>ul{position:absolute;float:left;top:0;left:100%;margin:-2px 0 0}
+#main-menu ul>li>ul{position:absolute;float:left;left:0;top:46px;width:180px;background-color:#111;z-index:99999;margin-top:0;padding:0;border-top:2px solid #f24a4a;visibility:hidden;opacity:0;box-shadow:-6px 6px 77px -17px #c7c7c7}
+#main-menu ul>li>ul>li>ul{position:absolute;float:left;top:0;left:100%;margin:-2px 0 0;box-shadow:-6px 6px 77px -17px #c7c7c7}
 #main-menu ul>li>ul>li{display:block;float:none;position:relative}
 #main-menu ul>li>ul>li:hover{background-color:#f24a4a}
 #main-menu ul>li>ul>li a{display:block;height:36px;font-size:13px;color:#fff;line-height:36px;box-sizing:border-box;margin:0;padding:0 15px;border:0;border-bottom:1px solid rgba(255,255,255,.05);transition:all .17s ease}
