@@ -322,13 +322,13 @@ ul.related-posts{position:relative;overflow:hidden;margin:0 -10px;padding:0}
 .related-posts .post-title a{color:#111;transition:color .17s}
 .related-posts .post-title a:hover{color:#39b5e4}
 #blog-pager{overflow:hidden;clear:both;margin:0 0 30px}
-.blog-pager a,.blog-pager span{float:left;display:block;min-width:30px;height:30px;background-color:#111;color:#fff;font-size:13px;font-weight:700;line-height:30px;text-align:center;box-sizing:border-box;margin:0 8px 0 0;transition:all .17s ease}
+.blog-pager a,.blog-pager span{float:left;display:block;min-width:30px;height:30px;background-color:#111;color:#fff;font-size:13px;font-weight:700;line-height:30px;text-align:center;box-sizing:border-box;margin:0 8px 0 0;transition:all .17s ease;box-shadow:0 3px 5px 0 rgba(0,1,1,.1);border-radius:5px}
 #comments .comment-thread .thread-count,.archive #blog-pager,.comments .continue{display:none}
 .blog-pager .blog-pager-newer-link,.blog-pager .blog-pager-older-link{padding:0 15px}
 .blog-pager .blog-pager-newer-link{float:left}
 .blog-pager .blog-pager-older-link{float:right}
 .blog-pager span.page-dots{min-width:20px;background-color:transparent;font-size:16px;color:#111;line-height:30px;font-weight:400;letter-spacing:-1px;border:0}
-.blog-pager .page-of{display:none;width:auto;float:right;border-color:transparent;margin:0}
+.blog-pager .page-of{display:none;width:auto;float:right;border-color:transparent;margin:0;box-shadow:0 2px 25px rgba(0,0,0,.06), 0 2px 5px rgba(0,0,0,.1)}
 .blog-pager .page-active,.blog-pager a:hover{background-color:#f24a4a;color:#fff}
 .blog-pager .page-next:before,.blog-pager .page-prev:before{font-family:FontAwesome;font-size:16px;font-weight:400}
 .blog-pager .page-prev:before{content:'\f104'}
