@@ -125,7 +125,7 @@ body{background:url() top left #f8f8f8;font-family:'Open Sans',sans-serif;font-s
 .social-text .external-link a:after{content:"WebSite"}
 #header-wrap{position:relative;margin:0;box-shadow:0 2px 15px rgba(0,0,0,.1)}
 .header-header{background:rgba(255,255,255,.61);width:100%;position:relative;overflow:hidden;padding:25px 0 20px}
-.header-header .container{position:relative;margin:0 auto;padding:0}
+.header-header .container{position:relative;margin:0 auto;padding:0;text-align:center}
 .header-logo{position:relative;float:left;width:auto;max-width:200px;padding:15px 0}
 .header-ads .widget,.header-logo img,.item-post .post-body img,.widget iframe,.widget img{max-width:100%}
 .header-logo .header-image-wrapper{display:block}
@@ -647,3 +647,4 @@ iframe{border:none;overflow:hidden}
 #main-menu #main-menu-nav>li.li-home,#main-menu #main-menu-nav>li:hover{background:#2ba83c}
 .post-labels a,.post-labels span{background:#ddd;border-radius:5px;padding:7px}
 body{background:#eaeaea}
+#top-bar{display:none}
